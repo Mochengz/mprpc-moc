@@ -29,13 +29,13 @@
 1. 开启服务请求方
 
    ```
-   ./consumer
+   ./consumer -i test.conf
    ```
 
 2. 开启服务提供方
 
    ```
-   ./provider
+   ./provider -i test.conf
    ```
 
 ## Technical points
