@@ -26,6 +26,8 @@ int main()
 
     std::cout << rsp.friend_list_size() << std::endl;
 
+    std::cout << "test 3" << std::endl;
+
     return 0;
 }
 
